@@ -1,0 +1,52 @@
+c X je buÔ Rus alebo Nemec
+c(RS ? ¨NS) ? (RM ? ¨NM) ? (RE ? ¨NE)
+¨RS v ¨NS
+NS v RS
+¨RM v ¨NM
+NM v RM
+¨RE v ¨NE
+NE v RE
+
+c pr·ve jeden je Rus, ostatnÌ dvaja s˙ nemci:
+c (RS ? NM ? NE) ? (NS ? RM ? NE) ? (NS ? NM ? RE)  - roznasobene
+RS v NS v NS
+RS v NS v NM
+RS v NS v RE
+RS v RM v NS
+RS v RM v NM
+RS v RM v RE
+RS v NE v NS
+RS v NE v NM
+RS v NE v RE
+
+NM v NS v NS
+NM v NS v NM
+NM v NS v RE
+NM v RM v NS
+NM v RM v NM
+NM v RM v RE
+NM v NE v NS
+NM v NE v NM
+NM v NE v RE
+
+NE v NS v NS
+NE v NS v NM
+NE v NS v RE
+NE v RM v NS
+NE v RM v NM
+NE v RM v RE
+NE v NE v NS
+NE v NE v NM
+NE v NE v RE
+
+c kaûd˝ Rus musÌ byù öpiÛn
+c (RS õ SS) ? (RM õ SM) ? (RE õ SE)
+¨RS v SS
+¨RM v SM
+¨RE v SE
+
+c Stirlitz: ÑM¸ller, ty si tak˝ Nemec, ako som ja Rus
+c NM ? RS
+¨NM v RS
+NM v ¨RS
+
